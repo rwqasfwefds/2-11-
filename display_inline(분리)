@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/display_inline.css"/>
+    <!-- <style>
+        #firstSentence{display: inline;}
+        #secondSentence{display: inline;}
+        #thirdSentence{display: inline;}
+    </style> -->
+</head>
+<body>
+    <div id="firstSentence">display test 1</div>
+    <div id="secondSentence">display test 2</div>
+    <div id="thirdSentence">display test 3</div>
+    테스트 결과가 어떠한가요?
+    
+</body>
+</html>
