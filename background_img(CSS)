@@ -1,0 +1,7 @@
+body {
+    background-image: url('../img/cinque_bay.jpg');
+}
+
+h1 {color: rgb(24, 128, 93);}
+
+p {color: rgba(100, 100, 200, 0.5);}
